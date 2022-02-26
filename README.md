@@ -1,0 +1,2 @@
+#Django AllAuth Application
+# DjangoAllAuth
